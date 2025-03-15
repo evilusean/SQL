@@ -28,3 +28,5 @@ https://www.youtube.com/watch?v=n2Fluyr3lbc
 FS - PostgreSQL does it all (pg_cron-scheduled tasks, JSONB-unstructured, unlogged tables-REDIS-Cache-persistent data, pgvector, pgai, tsvector, pg_graphql, ElectricSQL-Realtime Sync
   , pg_crypto-roll own auth, pgwt-webtokens, mooncake-analytics, PostgREST-API-Filtering-Sorting-Pagination, custom datatypes, Search Indexes-free elastisearch  ) :
 https://www.youtube.com/watch?v=3JW732GrMdg
+FS - 8 PostgreSQL ORMS (Use a library/ORM to avoid SQL injectSeans, intell-iseans IDE - PG, Postgres.JS, Drizzle, Prisma, Knex, Kysely, TypeORM, Sequelize ) :
+https://www.youtube.com/watch?v=4QN1BzxF8wM
