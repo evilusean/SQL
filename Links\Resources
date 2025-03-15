@@ -25,3 +25,6 @@ PostgreSQL Tutorial (Neon.tech) :
 https://neon.tech/postgresql/tutorial
 FS - PostgreSQL in 100 Seconds :
 https://www.youtube.com/watch?v=n2Fluyr3lbc
+FS - PostgreSQL does it all (pg_cron-scheduled tasks, JSONB-unstructured, unlogged tables-REDIS-Cache-persistent data, pgvector, pgai, tsvector, pg_graphql, ElectricSQL-Realtime Sync
+  , pg_crypto-roll own auth, pgwt-webtokens, mooncake-analytics, PostgREST-API-Filtering-Sorting-Pagination, custom datatypes, Search Indexes-free elastisearch  ) :
+https://www.youtube.com/watch?v=3JW732GrMdg
