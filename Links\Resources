@@ -33,3 +33,6 @@ FS - PostgreSQL does it all (pg_cron-scheduled tasks, JSONB-unstructured, unlogg
 https://www.youtube.com/watch?v=3JW732GrMdg
 FS - 8 PostgreSQL ORMS (Use a library/ORM to avoid SQL injectSeans, intell-iseans IDE - PG, Postgres.JS, Drizzle, Prisma, Knex, Kysely, TypeORM, Sequelize ) :
 https://www.youtube.com/watch?v=4QN1BzxF8wM
+
+ORM:
+Learn Drizzle in 13 Minutes : https://www.youtube.com/watch?v=hIYNOiZXQ7Y
