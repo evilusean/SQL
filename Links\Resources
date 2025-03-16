@@ -36,20 +36,30 @@ FS - PostgreSQL does it all (pg_cron-scheduled tasks, JSONB-unstructured, unlogg
 https://www.youtube.com/watch?v=3JW732GrMdg
 FS - 8 PostgreSQL ORMS (Use a library/ORM to avoid SQL injectSeans, intell-iseans IDE - PG, Postgres.JS, Drizzle, Prisma, Knex, Kysely, TypeORM, Sequelize ) :
 https://www.youtube.com/watch?v=4QN1BzxF8wM
-FCC - PostgreSQL Course for Beginners (2023-3Hours) : https://www.freecodecamp.org/news/posgresql-course-for-beginners/
+FCC - PostgreSQL Course for Beginners (2023-3Hours) : 
+https://www.freecodecamp.org/news/posgresql-course-for-beginners/
 
 ORM:
 Drizzle :
-Drizzle Official Docs : https://orm.drizzle.team/docs/get-started
-FS - Drizzle ORM in 100 Seconds : https://www.youtube.com/watch?v=i_mAHOhpBSA
-Learn Drizzle in 13 Minutes : https://www.youtube.com/watch?v=hIYNOiZXQ7Y
-Learn Drizzle in 60 Minutes : https://www.youtube.com/watch?v=7-NZ0MlPpJA
+Drizzle Official Docs : 
+https://orm.drizzle.team/docs/get-started
+FS - Drizzle ORM in 100 Seconds : 
+https://www.youtube.com/watch?v=i_mAHOhpBSA
+Learn Drizzle in 13 Minutes : 
+https://www.youtube.com/watch?v=hIYNOiZXQ7Y
+Learn Drizzle in 60 Minutes : 
+https://www.youtube.com/watch?v=7-NZ0MlPpJA
 
-Supabase (FOSS Firebase-Free Tier-Self Host in Docker-Authentication(google, github, etc)-Scalable-Dashboard-GraphQL Queries) : https://supabase.com/
-FS - Supabase in 100 Seconds : https://www.youtube.com/watch?v=zBZgdTb-dns
-FS - Is Supabase Legit? Firebase Alternative Breakdown (No SDK for iOS or Android, No Analytics) : https://www.youtube.com/watch?v=WiwfiVdfRIc
-FCC - Learn Supabase (Firebase Alternative) – Full Tutorial for Beginners (2024-3 hours) : https://www.youtube.com/watch?v=dU7GwCOgvNY
-Supabase Behind The Scenes (It's PostgreSQL) : https://www.youtube.com/watch?v=T-qAtAKjqwc
+Supabase (FOSS Firebase-Free Tier-Self Host in Docker-Authentication(google, github, etc)-Scalable-Dashboard-GraphQL Queries) : 
+https://supabase.com/
+FS - Supabase in 100 Seconds : 
+https://www.youtube.com/watch?v=zBZgdTb-dns
+FS - Is Supabase Legit? Firebase Alternative Breakdown (No SDK for iOS or Android, No Analytics) : 
+https://www.youtube.com/watch?v=WiwfiVdfRIc
+FCC - Learn Supabase (Firebase Alternative) – Full Tutorial for Beginners (2024-3 hours) : 
+https://www.youtube.com/watch?v=dU7GwCOgvNY
+Supabase Behind The Scenes (It's PostgreSQL) : 
+https://www.youtube.com/watch?v=T-qAtAKjqwc
 FCC - Learn Full Stack Development with Next.js and Supabase, Drizzle ORM by Building a Twitter Clone (2023 - 6 hours) : 
   https://www.freecodecamp.org/news/learn-full-stack-development-with-next-js-and-supabase-by-building-a-twitter-clone/
 
