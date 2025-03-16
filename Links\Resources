@@ -35,5 +35,7 @@ FS - 8 PostgreSQL ORMS (Use a library/ORM to avoid SQL injectSeans, intell-isean
 https://www.youtube.com/watch?v=4QN1BzxF8wM
 
 ORM:
+Drizzle :
+Drizzle Official Docs : https://orm.drizzle.team/docs/get-started
 Learn Drizzle in 13 Minutes : https://www.youtube.com/watch?v=hIYNOiZXQ7Y
 Learn Drizzle in 60 Minutes : https://www.youtube.com/watch?v=7-NZ0MlPpJA
