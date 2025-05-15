@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=6ChzCaljcaI
 Future Sean - To prevent Supabase from pausing set an arbitrary cron job to run every 6 days with a random query or else it will auto pause
 Supabase - Local Development(run and host locally, some functionality lost) - Requires Docker :
 https://supabase.com/docs/guides/local-development
-
+https://supabase.com/docs/guides/self-hosting
 
 
 
