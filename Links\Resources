@@ -85,7 +85,7 @@ Supabase - Local Development(run and host locally, some functionality lost) - Re
 NextJS + Supabase (10 min vid to get setup to begin development on supabase and nextJS) : 
 https://www.youtube.com/watch?v=wXXTz2eZIoM
 Future Sean - To prevent Supabase from pausing set an arbitrary cron job to run every 6 days with a random query or else it will auto pause
-  Also, you can use the same DB for authentication for multiple projects, use the same backend, so 1 free project can become many
+  Also, you can use the same DB for authentication/tables for multiple projects, use the same backend, so 1 free project can become many
 
 
 
