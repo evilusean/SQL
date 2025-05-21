@@ -77,7 +77,6 @@ FCC - Learn Full Stack Development with Next.js and Supabase, Drizzle ORM by Bui
   https://www.freecodecamp.org/news/learn-full-stack-development-with-next-js-and-supabase-by-building-a-twitter-clone/
 FCC - Build a Full Stack AI Note Taking App with Next.js 15 App Router and Supabase(auth/db), Prisma ORM, and shadcn – Tutorial (2025 - 2.5 hours) :
 https://www.youtube.com/watch?v=6ChzCaljcaI
-Future Sean - To prevent Supabase from pausing set an arbitrary cron job to run every 6 days with a random query or else it will auto pause
 Supabase - Local Development(run and host locally, some functionality lost) - Requires Docker :
   https://supabase.com/docs/guides/local-development/cli/getting-started
   https://supabase.com/docs/guides/local-development
@@ -85,7 +84,8 @@ Supabase - Local Development(run and host locally, some functionality lost) - Re
   https://supabase.com/docs/guides/self-hosting/docker
 NextJS + Supabase (10 min vid to get setup to begin development on supabase and nextJS) : 
 https://www.youtube.com/watch?v=wXXTz2eZIoM
-
+Future Sean - To prevent Supabase from pausing set an arbitrary cron job to run every 6 days with a random query or else it will auto pause
+  Also, you can use the same DB for authentication for multiple projects, use the same backend, so 1 free project can become many
 
 
 
