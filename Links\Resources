@@ -90,7 +90,7 @@ NextJS + Supabase (10 min vid to get setup to begin development on supabase and 
 https://www.youtube.com/watch?v=wXXTz2eZIoM
 Future Sean - To prevent Supabase from pausing set an arbitrary cron job to run every 6 days with a random query or else it will auto pause
   Also, you can use the same DB for authentication/tables for multiple projects, use the same backend, so 1 free project can become many
-FCC - Intro to Supabase – Full Tutorial for Beginners :
+FCC - Intro to Supabase – Full Tutorial for Beginners (2025 - 4.5 hours) :
 https://www.youtube.com/watch?v=Q7P20fHJlm4
 
 
